@@ -2,13 +2,20 @@
 
  🔭 I’m currently working on FrontEnd Development
  
- 🌱 I’m currently learning React.Js
+ 🌱 I’m currently learning JavaScript & React.Js
  
  💬 Ask me about how to learning FrontEnd path by myself
  
  ✨ 2022 Goals: Creating unique designs with my new career and new teammates
  
  ⚡ Fun fact: Photoshop & Making handmade things
+
+
+<div id="badges">
+  <a href="https://www.behance.net/mervesenve1eac">
+    <img src=""https://similarpng.com/popular-social-media-behance-logo-transparent-png/ alt="Behance"/>
+  </a>
+ </div>
 
 
 
