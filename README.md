@@ -21,7 +21,7 @@
 
 <div id="badges">
   <a href="https://codepen.io/mesenve">
-    <mg src="https://img.shields.io/badge/Sponsor-Project-000000?logo=cash-app&labelColor=89ba16&logoColor=ffffff&style=for-the-badge" alt="Codepen"/>
+    <img src="https://img.shields.io/badge/Sponsor-Project-000000?logo=cash-app&labelColor=89ba16&logoColor=ffffff&style=for-the-badge" alt="Codepen"/>
   </a>
  </div>
 
