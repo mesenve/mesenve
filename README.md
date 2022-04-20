@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on FrontEnd Web Development
+ 🔭 I’m currently working on FrontEnd Development
  
  🌱 I’m currently learning React.Js
  
