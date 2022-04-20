@@ -6,7 +6,7 @@
  
  💬 Ask me about how to learning FrontEnd path by myself
  
- ✨ 2022 Goals: Creating unique website designs with my new career and new teammates
+ ✨ 2022 Goals: Creating unique designs with my new career and new teammates
  
  ⚡ Fun fact: Photoshop & Making handmade things
 
