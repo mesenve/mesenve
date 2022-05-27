@@ -12,6 +12,8 @@
  ⚡ Fun fact: Photoshop & Making handmade things
 
 
+Click for Modern Designs
+
 <div id="badges">
   <a href="https://www.behance.net/mervesenve1eac">
     <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
@@ -19,18 +21,16 @@
  </div>
 
 
+Click for Basic CSS Animation
+
 
 <div id="badges">
-  <a href="https://codepen.io/mesenve">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"/>
+  <a href="https://dribbble.com/mesenve">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
   </a>
  </div>
 
-
-
 ![snake gif](https://github.com/mesenve/mesenve/blob/output/github-contribution-grid-snake.gif)
-
-
 
 
 <!--
