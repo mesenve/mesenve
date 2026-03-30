@@ -1,18 +1,5 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on FrontEnd Development
- 
- 🌱 I’m currently learning JavaScript & React.Js
- 
- 💬 Ask me about how to learning FrontEnd path by myself
- 
- ✨ 2022 Goals: I wanna be coding artist! 
-                Creating unique designs with my new career and new teammates
- 
- ⚡ Fun fact: Photoshop & Making handmade things
-
-
-Click for Modern Designs
 
 <div id="badges">
   <a href="https://www.behance.net/mervesenve1eac">
@@ -21,7 +8,6 @@ Click for Modern Designs
  </div>
 
 
-Click for Basic CSS Animation
 
 
 <div id="badges">
